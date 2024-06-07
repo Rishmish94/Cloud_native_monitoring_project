@@ -10,6 +10,9 @@ This project demonstrates my proficiency in building and deploying a Cloud Nativ
 - Pushes Docker image to AWS ECR for centralized image management.
 - Deploys on AWS EKS cluster using Kubernetes for efficient management of resources.
 
+![Cloud_native_monitoring](https://github.com/Rishmish94/Cloud_native_monitoring_project/assets/150320311/fb110573-3fc0-4921-8f45-ccb38b4d6170)
+
+
 ## Prerequisites
 Before starting, ensure you have the following installed and configured:
 - AWS Account with programmatic access and AWS CLI configured.
